@@ -23,6 +23,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nilamdev01&label=Profile%20Views&color=orange&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/nilamdev01?label=Followers&style=flat-square&color=blueviolet)
 ![Stars](https://img.shields.io/github/stars/nilamdev01?label=Stars&style=flat-square&color=yellow)
+[![LeetCode](https://img.shields.io/badge/LeetCode-nilamdev01-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/nilamdev01)
 
 </div>
 
@@ -33,12 +34,12 @@
 ### 🧭 Quick Navigation
 
 [**About**](#-about-me) •
+[**Stats**](#-github--leetcode-statistics) •
 [**Focus**](#-current-focus) •
 [**Rust**](#-rust) •
 [**DSA**](#-data-structures--algorithms) •
 [**AWS**](#%EF%B8%8F-aws) •
 [**Roadmap**](#%EF%B8%8F-2026-roadmap) •
-[**Stats**](#-github-stats) •
 [**Connect**](#-lets-connect)
 
 </div>
@@ -143,6 +144,78 @@ Exploring compute, storage, security and serverless services.
 | 🌱 **Growing** | Problem solving, system design basics |
 | 🎯 **Goal** | Become a confident systems + cloud developer |
 | ⚡ **Fun fact** | I fight the borrow checker daily (and sometimes win) |
+
+---
+
+## 📊 GitHub & LeetCode Statistics
+
+<div align="center">
+
+<!-- Profile Summary Banner -->
+<table width="100%">
+<tr>
+<td align="center">
+  <a href="https://github.com/nilamdev01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilamdev01&theme=radical&hide_border=true" width="100%" alt="Profile Overview"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<!-- Streaks and Languages Row -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/nilamdev01">
+    <img src="https://streak-stats.demolab.com?user=nilamdev01&theme=tokyonight&hide_border=true" width="100%" alt="Streak"/>
+  </a>
+  <br><strong>🔥 Contribution Streak</strong>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/nilamdev01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nilamdev01&theme=tokyonight&hide_border=true" width="100%" alt="Languages"/>
+  </a>
+  <br><strong>📊 Most Used Languages</strong>
+</td>
+</tr>
+</table>
+
+<!-- Productive Hours and LeetCode Card Row -->
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/nilamdev01">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nilamdev01&theme=radical&hide_border=true&utcOffset=5.5" width="100%" alt="Productive Hours"/>
+  </a>
+  <br><strong>🕐 Productive Hours (IST)</strong>
+</td>
+<td width="50%" align="center">
+  <a href="https://leetcode.com/nilamdev01">
+    <img src="https://leetcard.jacoblin.cool/nilamdev01?theme=dark&font=Nunito&ext=heatmap" width="100%" alt="LeetCode Stats"/>
+  </a>
+  <br><strong>🧩 LeetCode Stats & Heatmap</strong>
+</td>
+</tr>
+</table>
+
+<!-- Contribution Activity Heatmap Graph -->
+<h3 align="center">💚 GitHub Contribution Activity</h3>
+
+<p align="center">
+  <a href="https://github.com/nilamdev01">
+    <img src="https://ghchart.rshah.org/2ea043/nilamdev01" alt="Nilam Dev GitHub Contribution Activity" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Consistency • Contribution • Growth</strong>
+</p>
+
+<p align="center">
+  <i>Building every day. Learning every day. Growing every day.</i>
+</p>
+
+</div>
 
 ---
 
@@ -257,6 +330,13 @@ fn main() {
 ## 🧩 Data Structures & Algorithms
 
 > *"Talk is cheap. Show me the code."*
+
+<div align="center">
+  <a href="https://leetcode.com/nilamdev01"><img src="https://img.shields.io/badge/LeetCode-nilamdev01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://neetcode.io"><img src="https://img.shields.io/badge/NeetCode-Practicing-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</div>
+
+<br/>
 
 ### 🗂️ Topics Tracker
 
@@ -541,44 +621,6 @@ gantt
 
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=nilamdev01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  alt="GitHub Stats"
-/>
-</td>
-
-<td width="50%">
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamdev01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Top Languages"
-/>
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-<img
-  width="100%"
-  src="https://streak-stats.demolab.com?user=nilamdev01&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 ## 🧰 Tools & Tech
 
 <div align="center">
@@ -644,7 +686,7 @@ gantt
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilamdev01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nilamdev01)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nilamdev01)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilam23192@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nilamdev01)
 
 <br/>
